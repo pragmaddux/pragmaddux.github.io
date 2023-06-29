@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Intro"
+date:   2023-06-24 21:47:54 -0500
+categories: blog
+---
+
+Hi, my name is James Maddux, and I'm completing a CS degree at WGU, which I expect to finish in 2024. I have the following goals for this blog:
+- Become more familiar with GitHub
+- Share resources with other CS students (especially my WGU classmates)
+- Highlight projects I'm working on
+- Have a place to play around with minor web development
+
+The installation of the Jekyll theming onto this GitHub page was a nice little exercise. If you want to give it a try yourself, check out
+the [Jekyll guide](https://jekyllrb.com/docs/). It won't be a comprehensive guide, and you will likely need to work on chunks of the installation that 
+you haven't seen before, but it's worthwhile to troubleshoot. 
+
+Not that this blog is a complete product at the moment! Consider the structure of this website a work
+in progress, but I hope to be streamlining it as time goes by. The theming is courtesy of the hard work by the Jekyll folks. It's also quite nice
+to have an RSS feed running again, especially as social networks bog down with spam and poorly-targeted ads.
+
+Thank you for stopping by!

@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+	<div>
+		<p>Checking to see if I can deploy a simple front page</p>
+	</div>
+
+</html>

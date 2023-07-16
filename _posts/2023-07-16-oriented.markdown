@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Oriented"
+date:   2023-07-16 06:00:00 -0500
+categories: wgucs
+---
+
+After a month of waiting, I finally got to make progress on my coursework, sort of.
+I completed the orientation for starting the program, which becomes available after
+the 15th day of the month prior to your start date. The orientation is standard
+fare, with a jumble of motivational tidbits, a career test, post-login website navigation,
+and branches for each program. At the end, they give you an assignment to "pass" the
+orientation, which just has a few questions about your plans.
+
+Sometime in the next couple weeks, I'll be assigned a Program Mentor who will guide
+me through the curriculum and get my classes in a proper order. They will be communicating
+with me regularly though the program (currently weekly calls, but I've heard that
+this may change). Then I start my program on August 1st, though the first day can be
+a bit chaotic with access, from what I've seen in discussion groups.
+
+Other than that, today I am re-entering module 5 of the Java MOOC I posted about earlier,
+which means that yes, somehow I did the equivalent of 40 hours of of the MOOC so far.
+Not a bad benchmark.
+
+I have also started the "WGU Info" page, which will contain links and resources
+that myself and other students have found helpful when going through the CS program.
+This will be an ongoing project, but hopefully a nice stop for other WGU CS students!

@@ -1,3 +1,3 @@
-# pragmaddux.github.io
+This is the repo for my GitHub Pages blog, found at [pragmaddux.github.io](https://pragmaddux.github.io/).
 
-Theming Github page with Jekyll
+I'll be posting project updates and resources for WGU CS students.

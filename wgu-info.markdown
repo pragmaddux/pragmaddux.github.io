@@ -42,12 +42,18 @@ A word of warning here: you will *absolutely* find bad information on WGU-relate
 - [WGU Azure for Education Access](https://azureforeducation.microsoft.com/devtools) - Free Windows 10 & 11, Visual Studio Enterprise, server and database software. Also has a bunch of Azure stuff, and student trials. This is also accessible once you get your WGU email.
 Note: this isn't where you download MS Office apps. Those can be found by logging into your email, clicking your profile in the upper-right-hand corner and selecting "view account". Scroll down and select "Office Apps" to download desktop versions.
 
-## Other CS Linkdumps
+## Other CS Links
 
 - [r/learnprogramming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) - Some good information here, and additional motivational links.
 
 - [Teach Yourself CS](https://teachyourselfcs.com/) - This is intended more for people with programming experience, but it links to a lot of nice resources. They also share [an interesting perspective on why you shouldn't pursue an MSCS](https://ozwrites.com/masters/). 
 
+- [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - What it says on the label, but very large.
+
 ## Youtube channels
 
 - [Josh Madakor](https://www.youtube.com/c/JoshMadakor) - Many WGU students got their initial "kick" to take things seriously by watching Josh Madakor's videos, and it feels right to mention his YT channel. His CS stuff is a little outdated due to the curriculum change. But, if you're wondering if a different WGU degree would work better for you, he does have some comparison videos. I do lean away from most channels that advertise "how fast" you get your degree, but he does a decent job of setting your expectations...especially compared to many other WGU youtubers.
+
+## Career Resources
+
+- [WellFound](https://wellfound.com/) - Job-searching website that also appears to cater toward internship-seekers. I found out about this one in late July 2023, I will update here if I have any positive experiences with the site. I did see another WGU student who was successful in getting an internship through WellFound.

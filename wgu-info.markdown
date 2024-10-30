@@ -12,9 +12,11 @@ permalink: /wgu-info/
 
 A word of warning here: you will *absolutely* find bad information on WGU-related social media, so be smart and ask your enrollment counselor or program mentor before panicking. 
 
-- [r/WGU](https://www.reddit.com/r/WGU/) & [r/WGU_CompSci](https://www.reddit.com/r/WGU_CompSci/) - Both Reddit communities are decent and active, and have enough history to make them the most searchable resources for specific courses. The best replies will usually be found by searching by course number (eg. D281 for a Linux Foundations question.)
+- [Unofficial WGU Discord](https://discord.gg/unwgu) - This is the biggest Discord server for WGU, and it caters to all majors. The CS room is very active, and some helpful alumni hang around. 
 
-- [Unofficial WGU Discord](https://discord.gg/unwgu) - This is the biggest Discord server for WGU, and it caters to all majors. The CS room is very active, and some helpful alumni hang around. There is another WGU CS Discord that I enjoy, but it doesn't currently have an invite permalink, so feel free to email me if you'd like me to generate an invite for you!
+- **[WGU CS and SWE Discord](https://discord.gg/wgu)** - Also unofficial, but I've been on this Discord since February 2023, and now I help moderate! As of October 2024, we have over 3,500 members, and we have spots for every class to coordinate and ask for help from other students.
+
+- [r/WGU](https://www.reddit.com/r/WGU/) & [r/WGU_CompSci](https://www.reddit.com/r/WGU_CompSci/) - Both Reddit communities are decent and active, and have enough history to make them the most searchable resources for specific courses. The best replies will usually be found by searching by course number (eg. D281 for a Linux Foundations question.)
 
 - [WGU Accelerators Facebook Group](https://www.facebook.com/groups/WGUaccelerators/) - Very few CS majors on this group, and sometimes the info is awful. But you will see people posting their graduation photos, and I find those posts motivational. And honestly, it helps to have a reminder of your schoolwork when you're procrastinating.
 
@@ -27,7 +29,7 @@ A word of warning here: you will *absolutely* find bad information on WGU-relate
 
 ## Learning Resources
 
-- [WGU Udemy Access](http://wgualumni.udemy.com/) - WGU covers a huge Udemy subscription that remains available to alumni. You can access this at least a couple weeks before your first term, once you have your WGU email. I believe that Angela Yu’s courses come highly recommended.
+- [WGU Udemy Access](http://wgu.udemy.com/) - WGU covers a huge Udemy subscription for current students. You may be able to access this at least a couple weeks before your first term, once you have your WGU email. I believe that Angela Yu’s courses come highly recommended. NOTE: This was previously available for alumni, but has now been limited to current students.
 
 - [WGU Library](https://www.wgu.edu/alumni/career-support/learning-resources.html) - A nice collection of other subscriptions you can access during and after WGU.
     - Pluralsight is similar to Udemy and provides different courses with sandboxes for following along. 

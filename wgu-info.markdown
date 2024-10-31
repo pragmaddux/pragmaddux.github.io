@@ -44,6 +44,8 @@ A word of warning here: you will *absolutely* find bad information on WGU-relate
 - [WGU Azure for Education Access](https://azureforeducation.microsoft.com/devtools) - Free Windows 10 & 11, Visual Studio Enterprise, server and database software. Also has a bunch of Azure stuff, and student trials. This is also accessible once you get your WGU email.
 Note: this isn't where you download MS Office apps. Those can be found by logging into your email, clicking your profile in the upper-right-hand corner and selecting "view account". Scroll down and select "Office Apps" to download desktop versions.
 
+- [Flux.ai](https://docs.flux.ai/faq/pricing) - Student plan. PCB "generating."
+
 ## Other CS Links
 
 - [r/learnprogramming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) - Some good information here, and additional motivational links.

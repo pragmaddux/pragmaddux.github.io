@@ -46,6 +46,8 @@ Note: this isn't where you download MS Office apps. Those can be found by loggin
 
 - [Flux.ai](https://docs.flux.ai/faq/pricing) - Student plan. PCB "generating."
 
+- [Scrimba](https://v2.scrimba.com/home) - This is a nice set of coding tutorials that integrates the coding environment into the video tutorials. I haven't worked with it beyond a few basic examples, but I believe they offer a free month with a .edu email.
+
 ## Other CS Links
 
 - [r/learnprogramming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) - Some good information here, and additional motivational links.

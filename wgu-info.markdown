@@ -44,7 +44,7 @@ A word of warning here: you will *absolutely* find bad information on WGU-relate
 - [WGU Azure for Education Access](https://azureforeducation.microsoft.com/devtools) - Free Windows 10 & 11, Visual Studio Enterprise, server and database software. Also has a bunch of Azure stuff, and student trials. This is also accessible once you get your WGU email.
 Note: this isn't where you download MS Office apps. Those can be found by logging into your email, clicking your profile in the upper-right-hand corner and selecting "view account". Scroll down and select "Office Apps" to download desktop versions.
 
-- [Flux.ai](https://docs.flux.ai/faq/pricing) - Student plan. PCB "generating."
+- [Flux.ai](https://docs.flux.ai/faq/pricing) - Student plan. PCB "generating" via AI, although I'm not sure if it's effective at doing so.
 
 - [Scrimba](https://v2.scrimba.com/home) - This is a nice set of coding tutorials that integrates the coding environment into the video tutorials. I haven't worked with it beyond a few basic examples, but I believe they offer a free month with a .edu email.
 
